@@ -1,0 +1,10 @@
+com/example/yemektariflerisqlite/databinding/FragmentListeBinding.java
+ com.example.yemektariflerisqlite.databinding.FragmentListeBinding
+com/example/yemektariflerisqlite/databinding/RecyclerRowBinding.java
+ com.example.yemektariflerisqlite.databinding.RecyclerRowBinding
+com/example/yemektariflerisqlite/BuildConfig.java
+ com.example.yemektariflerisqlite.BuildConfig
+com/example/yemektariflerisqlite/databinding/FragmentTarifBinding.java
+ com.example.yemektariflerisqlite.databinding.FragmentTarifBinding
+com/example/yemektariflerisqlite/databinding/ActivityMainBinding.java
+ com.example.yemektariflerisqlite.databinding.ActivityMainBinding
