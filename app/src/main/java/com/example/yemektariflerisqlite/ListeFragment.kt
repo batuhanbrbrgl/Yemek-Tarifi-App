@@ -13,6 +13,7 @@ import java.lang.Exception
 
 class ListeFragment : Fragment() {
 
+
     var yemekIsmiListesi = ArrayList<String>()
     var yemekIdListesi = ArrayList<Int>()
     private lateinit var listeAdapter : ListeRecyclerAdapter
